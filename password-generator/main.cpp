@@ -2,7 +2,7 @@
  * @file "main.cpp"
  * @version 1.0.0
  * 
- * @copyright (C) 2021 lost-century/~password-generator. all rights reserved
+ * @copyright (C) 2022 lost-century/~password-generator. all rights reserved
 */
 
 #include <iostream>
