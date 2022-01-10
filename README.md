@@ -13,3 +13,7 @@
   - [lostcentury64/~**passwordgenerator**](https://github.com/le01q/lostcentury64/tree/main/password-generator)
     - Version: **1.0.1**
     - Alias: **LC64.PASSWORDGEN.GEN32**
+ 
+  - [lostcentury64/~**ransomware**](https://github.com/le01q/lostcentury64/tree/main/password-generator)
+    - Version: **1.0.0**
+    - Alias: **LC64.RANSOMWARE.LC64CRYPT**
