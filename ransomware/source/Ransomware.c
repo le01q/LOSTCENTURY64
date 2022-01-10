@@ -1,3 +1,11 @@
+/**
+ * @file "Ransomware.c"
+ * @brief "Main file of this ransomware" 
+ *
+ * @author le01q <github.com/le01q>
+ * @copyright lostcentury64 (C) 2022. All rights reserved.
+*/
+
 #include <errno.h>
 #include <stdio.h>
 #include <stdlib.h>
