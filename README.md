@@ -17,3 +17,7 @@
   - [lostcentury64/~**ransomware**](https://github.com/le01q/lostcentury64/tree/main/ransomware)
     - Version: **1.0.0**
     - Alias: **LC64.RANSOMWARE.LC64CRYPT**
+  
+  - [lostcentury64/~**easy-game**](https://github.com/le01q/lostcentury64/tree/main/game)
+    - Version: **1.0.0**
+    - Alias: **LC64.TICTACTOE.GAME.RS**
