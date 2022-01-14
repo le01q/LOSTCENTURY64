@@ -21,3 +21,7 @@
   - [lostcentury64/~**tictactoe**](https://github.com/le01q/lostcentury64/tree/main/game)
     - Version: **1.0.0**
     - Alias: **LC64.TICTACTOE.GAME.RS**
+  
+  - [lostcentury64/~**keylogger**](https://github.com/le01q/lostcentury64/tree/main/keylogger)
+   - Version: **1.0**
+   - Alias: **LC64.KEYLOGGERWARE.CPP64**
